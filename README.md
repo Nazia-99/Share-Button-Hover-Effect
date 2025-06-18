@@ -11,7 +11,7 @@ Perfect for blog posts, card layouts, or interactive UI components.
 - Lightweight and responsive
 
 ## 📸 Preview
-![Preview](./screenshot.png)
+![Preview](.screenshot-.png)
 
 ## 🚀 Demo
 
