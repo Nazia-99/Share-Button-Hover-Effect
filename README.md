@@ -3,12 +3,14 @@
 A clean and responsive **Share Button Hover Animation** built using pure HTML and CSS.  
 Perfect for blog posts, card layouts, or interactive UI components.
 
-## 🛠️ Features
+✅ How It Works -
+** Uses transform and opacity to animate social icons.
+** Each .social-button a appears with a delay using transition-delay.
+** .button-content shrinks and moves upward on hover using
+** transform: translateY(-50%) scale(0.4).
 
-- Smooth hover animation
-- Pure HTML & CSS only
-- Easy to customize
-- Lightweight and responsive
+Clean use of flex for alignment and z-index layering.
+
 
 ## 📸 Preview
 ![Preview](screenshot-.png)
@@ -16,7 +18,7 @@ Perfect for blog posts, card layouts, or interactive UI components.
 ## 🚀 Demo
 
 Check out the live demo on YouTube:  
-🔗 [Watch the video](https://youtu.be/your-full-video-link-here)
+🔗 [Watch the video][((https://youtu.be/p24srN-XxRY))]
 
 ## 📁 Source Code
 
@@ -38,11 +40,6 @@ Feel free to explore or clone the code:
 
 
 Created with ❤️ by [**Code with Nazia**](https://www.youtube.com/@CodeWithNazia)
-
-
-
-
-
 
 
 
